@@ -1,4 +1,9 @@
-Assignment
+Prequestive:
+ssh coonection should be established with remote instances.
+add the instances into hotslist file ex: user@ip
+replace the user and ip with your remote instance credentials
+or use create-inven.sh to add those connections.
+ex: bash create-inven inv1 user host group
 Ansible Simulator
 Like ansible creating a custom tool which can be used to manage and configure remote instance.
 1. User Module
